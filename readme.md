@@ -1,5 +1,7 @@
 # Broodje falafel
 
+[broodje](broodje-falafel.jpg)
+
 ## BENODIGDHEDEN
 1 portie falafel (12 stuks)
 4 pitabroodjes
