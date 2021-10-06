@@ -1,6 +1,6 @@
 # Broodje falafel
 
-[broodje](broodje-falafel.jpg)
+![broodje](broodje-falafel.jpg)
 
 ## BENODIGDHEDEN
 1 portie falafel (12 stuks)
